@@ -1,0 +1,12 @@
+{
+    "success": 41,
+    "failure": 9,
+    "libero_10": {
+        "success": 41,
+        "failure": 9,
+        "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate": {
+            "success": 41,
+            "failure": 9
+        }
+    }
+}

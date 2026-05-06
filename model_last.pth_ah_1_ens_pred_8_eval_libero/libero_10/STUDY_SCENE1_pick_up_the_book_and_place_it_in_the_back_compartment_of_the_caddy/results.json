@@ -1,0 +1,12 @@
+{
+    "success": 50,
+    "failure": 0,
+    "libero_10": {
+        "success": 50,
+        "failure": 0,
+        "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy": {
+            "success": 50,
+            "failure": 0
+        }
+    }
+}

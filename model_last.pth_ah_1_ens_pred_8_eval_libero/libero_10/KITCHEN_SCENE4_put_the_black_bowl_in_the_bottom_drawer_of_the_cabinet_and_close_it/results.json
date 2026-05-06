@@ -1,0 +1,12 @@
+{
+    "success": 46,
+    "failure": 4,
+    "libero_10": {
+        "success": 46,
+        "failure": 4,
+        "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it": {
+            "success": 46,
+            "failure": 4
+        }
+    }
+}

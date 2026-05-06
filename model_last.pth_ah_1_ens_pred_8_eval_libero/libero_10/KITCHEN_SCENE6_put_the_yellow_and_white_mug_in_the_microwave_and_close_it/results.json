@@ -1,0 +1,12 @@
+{
+    "success": 43,
+    "failure": 7,
+    "libero_10": {
+        "success": 43,
+        "failure": 7,
+        "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it": {
+            "success": 43,
+            "failure": 7
+        }
+    }
+}

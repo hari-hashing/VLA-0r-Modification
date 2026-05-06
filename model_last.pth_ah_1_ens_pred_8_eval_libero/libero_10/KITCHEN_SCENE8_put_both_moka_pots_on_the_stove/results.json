@@ -1,0 +1,12 @@
+{
+    "success": 33,
+    "failure": 17,
+    "libero_10": {
+        "success": 33,
+        "failure": 17,
+        "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove": {
+            "success": 33,
+            "failure": 17
+        }
+    }
+}
