@@ -6,8 +6,7 @@
 ## Run the setup as is given in the VLA-0 repo 
 (https://github.com/NVlabs/vla0.git)
 
-## Citation
-A great reference taken fromt the following work:
+A great thanks to the authors of the folloeing work on VLA-0:
 
 ```bibtex
 @article{goyal2025vla0,
